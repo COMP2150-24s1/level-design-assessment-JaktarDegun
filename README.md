@@ -39,7 +39,7 @@ You should restructure the headings below to match the order they appear in your
 
 ### 2.3. Chompers
 Chompers are introduced almost immediately at the beginning where the player has to fall into a gap with the Chomper. This gives the player space to understand the mechanics of the Chomper through learning by doing.
-
+ [Chomper Storyboard](DocImages/Chomper_Storyboard.png)
 
 ### 2.4. Health Pickups
 
