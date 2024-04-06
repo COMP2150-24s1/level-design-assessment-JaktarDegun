@@ -38,6 +38,8 @@ Storyboards can be combined when multiple mechanics are introduced within a sing
 You should restructure the headings below to match the order they appear in your level.
 
 ### 2.3. Chompers
+Chompers are introduced almost immediately at the beginning where the player has to fall into a gap with the Chomper. This gives the player space to understand the mechanics of the Chomper through learning by doing.
+
 
 ### 2.4. Health Pickups
 
@@ -67,7 +69,7 @@ No additional words are necessary for this section (any words should only be wit
 ### 3.1. Molecule Diagram
 [Molecule Diagram](DocImages/Molecule_Diagram.png)
 ### 3.2. Level Map – Section 1
-[Level 1 StoryBoard](DocImages/Level_1_Storyboard.png)
+[Level 1 Annotated](DocImages/Level_1_Annotated.png)
 
 ### 3.3.	Level Map – Section 2
 
