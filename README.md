@@ -51,7 +51,7 @@ Chompers are introduced almost immediately at the beginning where the player has
  [Chomper Storyboard](DocImages/Chomper_Storyboard.png)
 
 ### 2.2. Health Pickups
-Health Pickups are deliberately introduced after the player goes through an encounter such as the Chomper. For Example after the chomper and moving platform encounter the player may have taken damage and will find Health pickups afterward. The frequency of health pickups do decrease as the player progressess through the level.
+Health Pickups are deliberately introduced after the player goes through an encounter such as the Chomper. For Example after the chomper and moving platform encounter the player may have taken damage and will find Health pickups afterward. 
 
 [This is the alt text for an image!](DocImages/exampleimage.png)
 
@@ -61,20 +61,28 @@ The first checkpoint is introduced just before the Acid pool room, where the pla
 [This is the alt text for an image!](DocImages/exampleimage.png)
 
 ### 2.4. Moving Platforms
+Moving Platforms were introduced in the Acid room. The player is encouraged to wait for the platform to come close towards themselves allowing them to reach the other end of the room.
 
 ### 2.5. Acid
+Acid is presented as a clear and unpleasant environment hazard as falling in it causes the player to respawn back to their next checkpoint. Its first avoided through platforming across the moving platforms
 
 ### 2.6. Spikes
+Spikes are introduced as another hazard, but used to restrict certain player behaviours at certain times. Such as the acid room the player cannot use a full button press jump to finish the Acid Room.
 
 ### 2.7. Weapon Pickup (Staff)
+Upon pickup, the player is given the ability to melee attack. An opportunity for the player to attack is first seen in the first open area where two chompers are presented towards the player.
 
 ### 2.8. Passthrough Platforms
+Passthrough platforms are first shown as a platform the player can pass through into the open area. Its introduced again near the second trigger door that the player can pass through them from the top. 
 
 ### 2.9. Spitters
+Spitters are introduced distant from the player as much as possible in order to show how the spitter shoots. Its second introduction is near a moving platform which causes the player to dodge the spitters projectiles which demonstrates the Spitter's full potential and usage through the level.
 
 ### 2.10. Weapon Pickup (Gun)
+The ability to shoot causes two different interacts for the player to use. Firstly the ability to shoot enemies as the player is introduced to a Spitter that the player can shoot and later on a switch that can be activated.
 
 ### 2.11. Keys
+Keys are presented at the end of an encounter. Used as a tool to reward the player progressing through an encounter where the Keys UI update tells the player they need 2 more to beat the level.
 
 ## 3. Spatiotemporal Design
 A section on Spatiotemporal Design, which includes your molecule diagram and annotated level maps (one for each main section of your level). These diagrams may be made digitally or by hand, but must not be created from screenshots of your game. The annotated level maps should show the structure you intend to build, included game elements, and the path the player is expected to take through the level. Examples of these diagrams are included in the level design lectures.
@@ -85,7 +93,6 @@ No additional words are necessary for this section (any words should only be wit
 ![Molecule Diagram](DocImages/Molecule_Diagram.png)
 ### 3.2. Level Map – Section 1
 ![Level 1 Annotated](DocImages/Level_1_Annotated.png)
-
 ### 3.3.	Level Map – Section 2
 
 ### 3.4.	Level Map – Section 3
