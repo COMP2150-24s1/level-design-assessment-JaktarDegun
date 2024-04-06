@@ -21,14 +21,22 @@ Outline and justify how your level design facilitates the core player experience
 ### 1.1. Discovery
 What does the player learn? How does your encounter and broader level design facilitate learning in a way that follows good design practice?
 
+Within the beginning of the first section. The player learns about how high and far their jump ability can take them. As demonstrated with their encounter with their first chomper. An encounter where they can see they can't cross the gap entirely and are able to dodge over the chomper. The player also learns about the two environmental hazards of the level just after they cross a checkpoint allowing practice to avoid them. By allowing the player to "learn by doing". They can see the immediate consequences in their environmental interaction. Thus giving the player a sense of agency over their character. Further in the level. The Staff and Gun are eventually picked up allowing players more solutions and interactions with their environment such as melee attacks on chompers and destructible objects. Along with Ranged attacks shooting the introduced Spitter enemy and switches that open pathways. Lastly, moving platforms are introduced alot especially the end of the first section. Along with everything else, moving platforms especially are used more further in the level. So introducing many core elements of the level early gives the player what to expect later in the level. (192)
+
 ### 1.2. Drama
 What is the intensity curve? How does your design facilitate increasing yet modulating intensity, with moments of tension and relief? 
+
+The intensity curve is the idea where the difficulty of a game or level becomes more intense as the player progress further into the level. Difficulty increases become most notable at section 2. Section 2 is where pressure on the player's position starts to become touched on. This is seen with Spitters used to punish the player standing still or being too slow in certain areas with the Spit projectiles. Encouraging the player give more action than inaction. A notable step in intensity is the compact area involving a destructible wall and a Spitter. The area starts difficult with a careful first jump needed to avoid the acid then jumping up while avoiding jumping into the chomper at the top. After dealing with the chomper, the player than must break the wall with five melee attacks and push a box to open a pathway deeper into the level. Meanwhile the Spitter is in range and spits projectiles toward the player until the player pushes the box entirely. This will seem like an awkward area for the player. This is then transitioned into a calmer area such as a connective space that calmly takes the player into the next encounter. (199)
 
 ### 1.3. Challenge
 What are the main challenges? How have you designed and balanced these challenges to control the difficulty curve and keep the player in the flow channel?
 
+The main challenges of the level revolves around platforming while dodging many of the level's hazards arranged in unique ways. Sections 2 and 3 are designed around an increasing rise in difficulty before calming down briefly around the sections halfway point. Before than rising again in the levels final area challenging the player's abilities to cross the final hurdle. This can be seen in Section 3. Near the end of the first half is an area where Spitters shoot from an unreachable area making the player move from their spot and encouraging them the finish that area. After completing the first half. The player is given a connective and relatively easy area before they encounter the final area of the game. They are also given an optional challenge area that rewards them a health kit if they so dare. This gives the player a chance to further test their platforming skills before the final area. In which keeps the player focused. (161)
+
 ### 1.4. Exploration
 How does your level design facilitate autonomy and invite the player to explore? How do your aesthetic and layout choices create distinct and memorable spaces and/or places?
+
+The level mostly uses background tiles to make certain areas distinct such as hazards visually being clearer. Secret areas hinted and sometimes directions to certain locations. Examples of optional areas include the first destructible wall after the player picks up the staff. Jumping up into the open area is the obvious next move. But the player can see that their is a path beyond the wall, where the player is then rewarded with a health kit. This discovered hidden area further encourages the player to explore more. Another use of further autonomy is at the spike jump room. After the push box puzzle is solved, the player can break a destructible column opening up a shortcut for the player to use. This gives the player a sense of agency as they discovered an alternative route. Aesthetically, background tiles also indicate distinct spaces to go towards such as the final key highlighted by the background tiles as the last step towards the end of the level.
 
 ## 2. Core Gameplay (~400 words)
 A section on Core Gameplay, where storyboards are used to outline how you introduce the player to each of the required gameplay elements in the first section of the game. Storyboards should follow the format provided in lectures.
@@ -37,29 +45,36 @@ Storyboards can be combined when multiple mechanics are introduced within a sing
 
 You should restructure the headings below to match the order they appear in your level.
 
-### 2.3. Chompers
-Chompers are introduced almost immediately at the beginning where the player has to fall into a gap with the Chomper. This gives the player space to understand the mechanics of the Chomper through learning by doing.
+### 2.1. Chompers
+Chompers are introduced almost immediately at the beginning where the player has to fall into a gap with the Chomper. This gives the player freedom to understand the mechanics of the Chomper through learning by doing.
+
  [Chomper Storyboard](DocImages/Chomper_Storyboard.png)
 
-### 2.4. Health Pickups
+### 2.2. Health Pickups
+Health Pickups are deliberately introduced after the player goes through an encounter such as the Chomper. For Example after the chomper and moving platform encounter the player may have taken damage and will find Health pickups afterward. The frequency of health pickups do decrease as the player progressess through the level.
 
-### 2.2. Checkpoints
+[This is the alt text for an image!](DocImages/exampleimage.png)
 
-### 2.6. Moving Platforms
+### 2.3. Checkpoints
+The first checkpoint is introduced just before the Acid pool room, where the player has made significant enough progress that repeating previous encounters will be considered a waste of the players time, along with being placed before a new challenge.
 
-### 2.1. Acid
+[This is the alt text for an image!](DocImages/exampleimage.png)
 
-### 2.11. Weapon Pickup (Staff)
+### 2.4. Moving Platforms
 
-### 2.7. Passthrough Platforms
+### 2.5. Acid
 
-### 2.8. Spikes
+### 2.6. Spikes
+
+### 2.7. Weapon Pickup (Staff)
+
+### 2.8. Passthrough Platforms
 
 ### 2.9. Spitters
 
 ### 2.10. Weapon Pickup (Gun)
 
-### 2.5. Keys
+### 2.11. Keys
 
 ## 3. Spatiotemporal Design
 A section on Spatiotemporal Design, which includes your molecule diagram and annotated level maps (one for each main section of your level). These diagrams may be made digitally or by hand, but must not be created from screenshots of your game. The annotated level maps should show the structure you intend to build, included game elements, and the path the player is expected to take through the level. Examples of these diagrams are included in the level design lectures.
@@ -67,9 +82,9 @@ A section on Spatiotemporal Design, which includes your molecule diagram and ann
 No additional words are necessary for this section (any words should only be within your images/diagrams).
  
 ### 3.1. Molecule Diagram
-[Molecule Diagram](DocImages/Molecule_Diagram.png)
+![Molecule Diagram](DocImages/Molecule_Diagram.png)
 ### 3.2. Level Map – Section 1
-[Level 1 Annotated](DocImages/Level_1_Annotated.png)
+![Level 1 Annotated](DocImages/Level_1_Annotated.png)
 
 ### 3.3.	Level Map – Section 2
 
