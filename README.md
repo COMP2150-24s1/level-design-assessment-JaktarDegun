@@ -94,7 +94,7 @@ No additional words are necessary for this section (any words should only be wit
 ### 3.2. Level Map – Section 1
 ![Level 1 Annotated](DocImages/Level_1_Annotated.png)
 ### 3.3.	Level Map – Section 2
-
+![Level 2 Annotated](DocImages/Level_2_Annotated.png)
 ### 3.4.	Level Map – Section 3
 
 ## 4. Iterative Design (~400 words)
