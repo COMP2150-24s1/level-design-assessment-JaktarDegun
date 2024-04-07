@@ -17,22 +17,38 @@ Outline and justify how your level design facilitates the core player experience
 ### 1.1. Discovery
 What does the player learn? How does your encounter and broader level design facilitate learning in a way that follows good design practice?
 
-Within the beginning of the first section. The player learns about how high and far their jump ability can take them. As demonstrated with their encounter with their first chomper. An encounter where they can see they can't cross the gap entirely and are able to dodge over the chomper. The player also learns about the two environmental hazards of the level just after they cross a checkpoint allowing practice to avoid them. By allowing the player to "learn by play". They can see the immediate consequences in their environmental interaction. Thus giving the player a sense of agency over their character. Further in the level. The Staff and Gun are eventually picked up allowing players more solutions and interactions with their environment such as melee attacks on chompers and destructible objects. Along with Ranged attacks shooting the introduced Spitter enemy and switches that open pathways. Lastly, moving platforms are introduced alot especially the end of the first section. This is important for the player to as moving platforms are especially used more further in the level. So introducing many core elements of the level early gives the player what to expect later in the level. 
+Within the beginning of the first section. The player learns about how high and far their jump ability can take them. As demonstrated with their encounter with their first chomper. An encounter where they can see they can't cross the gap entirely and are able to dodge over the chomper. The player also learns about the two environmental hazards of the level just after they cross a checkpoint allowing practice to avoid them. By allowing the player to "learn by play". They can see the immediate consequences in their environmental interaction. Thus,giving the player a sense of agency over their character. Further in the level. The Staff and Gun are eventually picked up allowing players more solutions and interactions with their environment such as melee attacks on chompers and destructible objects. Along with Ranged attacks shooting the introduced Spitter enemy and switches that open pathways. Lastly, moving platforms are introduced alot especially the end of the first section. This is important for the player to as moving platforms are especially used more further in the level. So introducing many core elements of the level early gives the player what to expect later in the level. 
+[Acid Pool](DocImages/Acid_Pool_Screenshot.png)
+[2nd Chomper Encounter](DocImages/Chomper_Screenshot.png)
+[2nd Spitter Encounter](DocImages/Spitter_Screenshot.png)
+[Shooting the Spitter](DocImages/Gun_Screenshot.png)
 
 ### 1.2. Drama
 What is the intensity curve? How does your design facilitate increasing yet modulating intensity, with moments of tension and relief? 
 
 The intensity curve is the idea where the difficulty of a game or level becomes more intense as the player progress further into the level. Difficulty increases become most notable at section 2. Section 2 is where pressure on the player's position starts to become touched on. This is seen with Spitters used to punish the player standing still or being too slow in certain areas with the Spit projectiles. Encouraging the player give more action than inaction. A notable step in intensity is the compact area involving a destructible wall and a Spitter. The area starts difficult with a careful first jump needed to avoid the acid then jumping up while avoiding jumping into the chomper at the top. After dealing with the chomper, the player than must break the wall with five melee attacks and push a box to open a pathway deeper into the level. Meanwhile the Spitter is in range and spits projectiles toward the player until the player pushes the box entirely. This will seem like an awkward area for the player. This is then transitioned into a calmer area such as a connective space that calmly takes the player into the next encounter. (199)
 
+[Compact Zone](DocImages/Compact_Zone_Screenshot.png)
+[Relief/Connective Area](DocImages/Connective_Space_Screenshot.png)
+
 ### 1.3. Challenge
 What are the main challenges? How have you designed and balanced these challenges to control the difficulty curve and keep the player in the flow channel?
 
 The main challenges of the level revolves around platforming while dodging many of the level's hazards arranged in unique ways. Sections 2 and 3 are designed around an increasing rise in difficulty before calming down briefly around the sections halfway point. Before than rising again in the levels final area challenging the player's abilities to cross the final hurdle. This can be seen in Section 3. Near the end of the first half is an area where Spitters shoot from an unreachable area making the player move from their spot and encouraging them the finish that area. After completing the first half. The player is given a connective and relatively easy area before they encounter the final area of the game. They are also given an optional challenge area that rewards them a health kit if they so dare. This gives the player a chance to further test their platforming skills before the final area. In which keeps the player focused. 
 
+[Starting Zone of Section 3](DocImages/Beginning_of_Section_3.PNG)
+[Optional Challenge](DocImages/Section_3_Optional_Screenshot.png)
+[Final Area](DocImages/Final_Area_Screenshot.png)
+
+
 ### 1.4. Exploration
 How does your level design facilitate autonomy and invite the player to explore? How do your aesthetic and layout choices create distinct and memorable spaces and/or places?
 
-The level mostly uses background tiles to make certain areas distinct such as hazards visually being clearer. Secret areas hinted and sometimes directions to certain locations. Examples of optional areas include the first destructible wall after the player picks up the staff. Jumping up into the open area is the obvious next move. But the player can see that their is a path beyond the wall, where the player is then rewarded with a health kit. This discovered hidden area further encourages the player to explore more. Another use of further autonomy is at the spike jump room. After the push box puzzle is solved, the player can break a destructible column opening up a shortcut for the player to use. This gives the player a sense of agency as they discovered an alternative route. Aesthetically, background tiles also indicate distinct spaces to go towards such as the final key highlighted by the background tiles as the last step towards the end of the level.
+The level mostly uses background tiles to make certain areas distinct such as hazards visually being clearer. Secret areas hinted and sometimes directions to certain locations. Examples of optional areas include the first destructible wall after the player picks up the staff. Jumping up into the open area is the obvious next move. But the player can see that their is a path beyond the wall, where the player is then rewarded with a health kit. This discovered hidden area further encourages the player to explore more. Another use of player freedom is at the spike jump room. After the push box puzzle is solved, the player can break a destructible column opening up a shortcut for the player to use. This gives the player a sense of agency as they discovered an alternative route. Aesthetically, background tiles also indicate distinct spaces to go towards such as the final key highlighted by the background tiles as the last step towards the end of the level.
+
+[Secret Area](DocImages/Secret_Area_1.PNG)
+[Last Key highlighted by background](DocImages/Final_Area_Screenshot.png)
+[Shortcut highligited in Spike Jump Room](DocImages/Spike_jump_column.png)
 
 ## 2. Core Gameplay (~400 words)
 ### 2.1. Chompers
