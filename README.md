@@ -51,7 +51,9 @@ How does your level design facilitate autonomy and invite the player to explore?
 The level mostly uses background tiles to make certain areas distinct such as hazards visually being clearer. Secret areas hinted and sometimes directions to certain locations. Examples of optional areas include the first destructible wall after the player picks up the staff. Jumping up into the open area is the obvious next move. But the player can see that their is a path beyond the wall, where the player is then rewarded with a health kit. This discovered hidden area further encourages the player to explore more. Another use of player freedom is at the spike jump room. After the push box puzzle is solved, the player can break a destructible column opening up a shortcut for the player to use. This gives the player a sense of agency as they discovered an alternative route. Aesthetically, background tiles also indicate distinct spaces to go towards such as the final key highlighted by the background tiles as the last step towards the end of the level.
 
 [Secret Area](DocImages/Secret_Area_1.PNG)
+
 [Last Key highlighted by background](DocImages/Final_Area_Screenshot.png)
+
 [Shortcut highligited in Spike Jump Room](DocImages/Spike_jump_column.png)
 
 ## 2. Core Gameplay (~400 words)
