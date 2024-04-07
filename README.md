@@ -28,7 +28,7 @@ Within the beginning of the first section. The player learns about how high and 
 ### 1.2. Drama
 What is the intensity curve? How does your design facilitate increasing yet modulating intensity, with moments of tension and relief? 
 
-The intensity curve is the idea where the difficulty of a game or level becomes more intense as the player progress further into the level. Difficulty increases become most notable at section 2. Section 2 is where pressure on the player's position starts to become touched on. This is seen with Spitters used to punish the player standing still or being too slow in certain areas with the Spit projectiles. Encouraging the player give more action than inaction. A notable step in intensity is the compact area involving a destructible wall and a Spitter. The area starts difficult with a careful first jump needed to avoid the acid then jumping up while avoiding jumping into the chomper at the top. After dealing with the chomper, the player than must break the wall with five melee attacks and push a box to open a pathway deeper into the level. Meanwhile the Spitter is in range and spits projectiles toward the player until the player pushes the box entirely. This will seem like an awkward area for the player. This is then transitioned into a calmer area such as a connective space that calmly takes the player into the next encounter. (199)
+The intensity curve is the idea where the difficulty of a game or level becomes more intense as the player progress further into the level. Difficulty increases become most notable at section 2. Section 2 is where pressure on the player's position starts to become touched on. This is seen with Spitters used to punish the player standing still or being too slow in certain areas with the Spit projectiles. Encouraging the player give more action than inaction. A notable step in intensity is the compact area involving a destructible wall and a Spitter. The area starts difficult with a careful first jump needed to avoid the acid then jumping up while avoiding jumping into the chomper at the top. After dealing with the chomper, the player than must break the wall with five melee attacks and push a box to open a pathway deeper into the level. Meanwhile the Spitter is in range and spits projectiles toward the player until the player pushes the box entirely. This will seem like an awkward area for the player. This is then transitioned into a calmer area such as a connective space that calmly takes the player into the next encounter. 
 
 [Compact Zone](DocImages/Compact_Zone_Screenshot.png)
 
@@ -54,7 +54,7 @@ The level mostly uses background tiles to make certain areas distinct such as ha
 
 [Last Key highlighted by background](DocImages/Final_Area_Screenshot.png)
 
-[Shortcut highligited in Spike Jump Room](DocImages/Spike_jump_column.png)
+[Shortcut highlighted in Spike Jump Room](DocImages/Spike_jump_column.png)
 
 ## 2. Core Gameplay (~400 words)
 ### 2.1. Chompers
