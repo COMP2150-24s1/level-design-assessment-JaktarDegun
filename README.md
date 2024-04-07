@@ -17,7 +17,7 @@ Outline and justify how your level design facilitates the core player experience
 ### 1.1. Discovery
 What does the player learn? How does your encounter and broader level design facilitate learning in a way that follows good design practice?
 
-Within the beginning of the first section. The player learns about how high and far their jump ability can take them. As demonstrated with their encounter with their first chomper. An encounter where they can see they can't cross the gap entirely and are able to dodge over the chomper. The player also learns about the two environmental hazards of the level just after they cross a checkpoint allowing practice to avoid them. By allowing the player to "learn by doing". They can see the immediate consequences in their environmental interaction. Thus giving the player a sense of agency over their character. Further in the level. The Staff and Gun are eventually picked up allowing players more solutions and interactions with their environment such as melee attacks on chompers and destructible objects. Along with Ranged attacks shooting the introduced Spitter enemy and switches that open pathways. Lastly, moving platforms are introduced alot especially the end of the first section. Along with everything else, moving platforms especially are used more further in the level. So introducing many core elements of the level early gives the player what to expect later in the level. (192)
+Within the beginning of the first section. The player learns about how high and far their jump ability can take them. As demonstrated with their encounter with their first chomper. An encounter where they can see they can't cross the gap entirely and are able to dodge over the chomper. The player also learns about the two environmental hazards of the level just after they cross a checkpoint allowing practice to avoid them. By allowing the player to "learn by play". They can see the immediate consequences in their environmental interaction. Thus giving the player a sense of agency over their character. Further in the level. The Staff and Gun are eventually picked up allowing players more solutions and interactions with their environment such as melee attacks on chompers and destructible objects. Along with Ranged attacks shooting the introduced Spitter enemy and switches that open pathways. Lastly, moving platforms are introduced alot especially the end of the first section. Along with everything else, moving platforms especially are used more further in the level. So introducing many core elements of the level early gives the player what to expect later in the level. (192)
 
 ### 1.2. Drama
 What is the intensity curve? How does your design facilitate increasing yet modulating intensity, with moments of tension and relief? 
@@ -42,37 +42,47 @@ Storyboards can be combined when multiple mechanics are introduced within a sing
 You should restructure the headings below to match the order they appear in your level.
 
 ### 2.1. Chompers
-Chompers are introduced almost immediately at the beginning where the player has to fall into a gap with the Chomper. This gives the player freedom to understand the mechanics of the Chomper through learning by doing.
+Chompers are introduced almost immediately at the beginning where the player has to fall into a gap with the Chomper. This gives the player freedom to understand the mechanics of the Chomper through learning by play.
 
  [Chomper Storyboard](DocImages/Chomper_Storyboard.png)
 
 ### 2.2. Health Pickups
 Health Pickups are deliberately introduced after the player goes through an encounter such as the Chomper. For Example after the chomper and moving platform encounter the player may have taken damage and will find Health pickups afterward. 
 
-[This is the alt text for an image!](DocImages/exampleimage.png)
+[Health Kit Storyboard](DocImages/Health_Kit_Storyboard.png)
 
 ### 2.3. Checkpoints
 The first checkpoint is introduced just before the Acid pool room, where the player has made significant enough progress that repeating previous encounters will be considered a waste of the players time, along with being placed before a new challenge.
 
-[This is the alt text for an image!](DocImages/exampleimage.png)
+[Acid Room Storyboard](DocImages/Acid_Room_Storyboard.png)
 
 ### 2.4. Moving Platforms
 Moving Platforms were introduced in the Acid room. The player is encouraged to wait for the platform to come close towards themselves allowing them to reach the other end of the room.
 
+[Acid Room Storyboard](DocImages/Acid_Room_Storyboard.png)
+
 ### 2.5. Acid
 Acid is presented as a clear and unpleasant environment hazard as falling in it causes the player to respawn back to their next checkpoint. Its first avoided through platforming across the moving platforms
+
+[Acid Room Storyboard](DocImages/Acid_Room_Storyboard.png)
 
 ### 2.6. Spikes
 Spikes are introduced as another hazard, but used to restrict certain player behaviours at certain times. Such as the acid room the player cannot use a full button press jump to finish the Acid Room.
 
+[Acid Room Storyboard](DocImages/Acid_Room_Storyboard.png)
+
 ### 2.7. Weapon Pickup (Staff)
 Upon pickup, the player is given the ability to melee attack. An opportunity for the player to attack is first seen in the first open area where two chompers are presented towards the player.
+
+[Staff/Passthrough Storyboard](DocImages/Staff_Passthrough_Storyboard.png)
 
 ### 2.8. Passthrough Platforms
 Passthrough platforms are first shown as a platform the player can pass through into the open area. Its introduced again near the second trigger door that the player can pass through them from the top. 
 
+[Staff/Passthrough Storyboard](DocImages/Staff_Passthrough_Storyboard.png)
+
 ### 2.9. Spitters
-Spitters are introduced distant from the player as much as possible in order to show how the spitter shoots. Its second introduction is near a moving platform which causes the player to dodge the spitters projectiles which demonstrates the Spitter's full potential and usage through the level.
+Spitters are introduced distant from the player as much as possible in order to show how the spitter shoots. Its second introduction is near a moving platform which causes the player to dodge the spitters projectiles which demonstrates the Spitter's full potential and usage throughout the level.
 
 ### 2.10. Weapon Pickup (Gun)
 The ability to shoot causes two different interacts for the player to use. Firstly the ability to shoot enemies as the player is introduced to a Spitter that the player can shoot and later on a switch that can be activated.
