@@ -3,7 +3,7 @@
 ### Name: Jaktar Degun
 ### Student number: 47397063 
 
-This document discusses and reflects on the design of your platformer level for the Level Design assessment. It should be 1500 words. Make sure you delete this and all other instructional text throughout the document before checking your word count prior to submission. Hint: You can check word count by copying this text into a Word or Google doc.
+This document discusses and reflects on the design of your platformer level for the Level Design assessment. It should be 1500 words. Make sure you delete this and all other instructional text throughout the document before checking your word count prior to submission.
 
 Your document must include images. To insert an image into your documentation, place it in the "DocImages" folder in this repo, then place the below text where you want the image to appear:
 
@@ -83,6 +83,8 @@ Passthrough platforms are first shown as a platform the player can pass through 
 
 ### 2.9. Spitters
 Spitters are introduced distant from the player as much as possible in order to show how the spitter shoots. Its second introduction is near a moving platform which causes the player to dodge the spitters projectiles which demonstrates the Spitter's full potential and usage throughout the level.
+
+[Spitter Storyboard](DocImages/Spitter_Storyboard.png)
 
 ### 2.10. Weapon Pickup (Gun)
 The ability to shoot causes two different interacts for the player to use. Firstly the ability to shoot enemies as the player is introduced to a Spitter that the player can shoot and later on a switch that can be activated.
